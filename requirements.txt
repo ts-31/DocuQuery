@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pymongo
+redis
+python-dotenv
+openai
+langchain
+faiss-cpu
+pdfplumber
+pydantic
+python-multipart

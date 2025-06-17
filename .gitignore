@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Environment variables
+.env
+
+# VS Code settings (if using VSCode)
+.vscode/
+
+# macOS / Windows junk files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# MyPy & Pyright
+.mypy_cache/
+.pyright/
+
+# FAISS index files (if saved locally)
+*.faiss
+*.index
+
+# PDF/Text uploads (if storing locally)
+uploads/
+temp/
+
+# Log files
+*.log
+
+# Ollama cache (optional)
+.ollama/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
